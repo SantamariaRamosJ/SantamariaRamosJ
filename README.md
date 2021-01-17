@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kevin Ariza</h1>
-<h3 align="center">A passionate Software Engineer, driven by curiosity and love for learning new things.</h3>
+<h1 align="center">Hi 👋, I'm Jorge Santamaria</h1>
+<h3 align="center">A passionate Frontend Developer, driven by curiosity and love for learning new things.</h3>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kevwas&label=Profile%20views&color=0e75b6&style=flat" alt="kevwas" />
+    <img src="https://komarev.com/ghpvc/?username=SantamariaRamosJ&label=Profile%20views&color=0e75b6&style=flat" alt="SantamariaRamosJ" />
 </div>  
 <br/> 
 <div align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kevwas" alt="kevwas" />
+        <img src="https://github-profile-trophy.vercel.app/?username=SantamariaRamosJ" alt="SantamariaRamosJ" />
     </a> 
 </div>
 <br/> 
@@ -16,13 +16,9 @@
 
 - 🌱 I’m currently learning **Django, AI, Machine Learning and Data Science**
 
-- 👨‍💻 All of my recent projects are available at [arizakevin.web.app](arizakevin.web.app)
+- 💬 Ask me about **Frontend development**
 
-- 💬 Ask me about **Web and mobile development**
-
-- 📫 How to reach me **arizakevin.dev@gmail.com**
-
-- 📄 Know about my experiences [https://www.dropbox.com/s/39zlmxdvm36h6nt/Developer%20CV%20EN.pdf?dl=0](https://www.dropbox.com/s/39zlmxdvm36h6nt/Developer%20CV%20EN.pdf?dl=0)
+- 📫 How to reach me **santamariaramosj@gmail.com**
 
 
 ## My Skill Set  
@@ -179,10 +175,10 @@
 ## Connect with me  
 
 <div align="center">
-    <a href="https://github.com/kevwas" target="_blank">
+    <a href="https://github.com/SantamariaRamosJ" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/kevinwarizas" target="_blank">
+    <a href="https://linkedin.com/in/SantamariaRamosJ" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
 </div>  
@@ -192,9 +188,9 @@
 ## Github Stats  
 
 <div align="center">
-    <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevwas&show_icons=true&locale=en&layout=compact" alt="kevwas" />
+    <img align="top" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantamariaRamosJ&show_icons=true&locale=en&layout=compact" alt="SantamariaRamosJ" />
     <br/><br/>  
-    <img align="middle" width="70%" src="https://github-readme-stats.vercel.app/api?username=kevwas&show_icons=true&locale=en" alt="kevwas" />
+    <img align="middle" width="70%" src="https://github-readme-stats.vercel.app/api?username=SantamariaRamosJ&show_icons=true&locale=en" alt="SantamariaRamosJ" />
     <br/><br/>  
-    <img align="bottom" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevwas&" alt="kevwas" />
+    <img align="bottom" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SantamariaRamosJ&" alt="SantamariaRamosJ" />
 </div>
